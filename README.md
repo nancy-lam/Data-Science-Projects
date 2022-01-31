@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Crimes in Chicago Project
 <p>Data Source: </br>
 Chicago Data Portal – Crimes – 2001 to Present(Updated Jan 4, 2022) </br>
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2</p>
